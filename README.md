@@ -1,6 +1,6 @@
 # Unified-Theory
-This is [Az:Net](https://github.com/Az-Net)'s Unified Theory.  
-Constant Work In-Progress
+This is [Az:Net's](https://github.com/Az-Net) Unified Theory.  
+_Constant Work In-Progress_
 ____
 [Our Philosophy](https://github.com/Az-Net/Proposals/blob/main/Az%20Philosophy.md)
 ____
