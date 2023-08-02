@@ -2,6 +2,7 @@
 This is Az:Net's Unified Theory.  
 Constant Work In-Progress
 
+[Our Philosophy](https://github.com/Az-Net/Proposals/blob/main/Az%20Philosophy.md)
 
 [Defining 'God'](https://github.com/Az-Net/Az-Net/blob/main/Definitions/God.md)
 * ['God' as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
