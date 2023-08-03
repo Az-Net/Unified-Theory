@@ -1,6 +1,6 @@
 The term **transcendental compact multidimensional set theory** refers to the study of sets that have the following properties:
 
-* They are transcendental, meaning that they do not contain any [algebraic numbers](https://en.m.wikipedia.org/wiki/Algebraic_number).
+* They are transcendental, meaning that they [do not contain any algebraic numbers](https://en.m.wikipedia.org/wiki/Algebraic_number).
 * They are compact, meaning that they are [closed](https://en.m.wikipedia.org/wiki/Closed_set) and [bounded](https://en.m.wikipedia.org/wiki/Bounded_set).
 * They are multidimensional, meaning that they have [more than two dimensions](https://en.m.wikipedia.org/wiki/Euclidean_plane).
 
