@@ -17,3 +17,4 @@ ____
 * [Mind](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Mind.md)
 * [Name](https://github.com/Az-Net/AZ-Curriculum/blob/main/Naming.md)
 ____
+[AZ Curriculum](https://github.com/Az-Net/AZ-Curriculum)
