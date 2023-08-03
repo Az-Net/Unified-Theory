@@ -8,4 +8,4 @@ This type of [set theory](https://en.m.wikipedia.org/wiki/Set_theory#:~:text=Set
 
 The study of [transcendental numbers](https://en.m.wikipedia.org/wiki/Transcendental_number) is already a complex and fascinating topic, and the addition of [compactness](https://en.m.wikipedia.org/wiki/Compact_space) and [multidimensionality](https://en.m.wikipedia.org/wiki/Multidimensional_system) would only add to the challenge and the potential rewards.
 
-TCMS Theory has the potential to help us understand infinity in a way that we never have before. However, it is also possible that it could lead us down a rabbit hole of madness. Only time will tell what the true potential of this field of study is.
+TCMS Theory has the potential to help us understand infinity in a way that we never have before. However, it is also possible that it could lead us down a rabbit hole of madness. Only time will tell what the true potential this field of study has.
