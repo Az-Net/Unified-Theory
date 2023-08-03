@@ -22,3 +22,5 @@ ____
 * Reflection
 ____
 [AZ Curriculum](https://github.com/Az-Net/AZ-Curriculum)
+____
+[Summary of the Occult Paradigm](https://github.com/Az-Net/Proposals/blob/main/Occult%20Paradigm.md)
