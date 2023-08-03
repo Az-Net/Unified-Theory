@@ -18,6 +18,7 @@ ____
 * [Name](https://github.com/Az-Net/AZ-Curriculum/blob/main/Naming.md)
 * Ego
 * Form
+* Instinct
 * Reflection
 ____
 [AZ Curriculum](https://github.com/Az-Net/AZ-Curriculum)
