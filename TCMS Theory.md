@@ -1,4 +1,6 @@
-The term **transcendental compact multidimensional set theory** refers to the study of sets that have the following properties:
+# (TCMS) Theory
+
+The term **Transcendental Compact Multidimensional Set Theory** refers to the study of sets that have the following properties:
 
 * They are transcendental, meaning that they [do not contain any algebraic numbers](https://en.m.wikipedia.org/wiki/Algebraic_number).
 * They are compact, meaning that they are [closed](https://en.m.wikipedia.org/wiki/Closed_set) and [bounded](https://en.m.wikipedia.org/wiki/Bounded_set).
@@ -10,4 +12,5 @@ The study of [transcendental numbers](https://en.m.wikipedia.org/wiki/Transcende
 
 TCMS Theory has the potential to help us understand infinity in a way that we never have before. However, it is also possible that it could lead us down a rabbit hole of madness. Only time will tell what the true potential this field of study has.
 
-[The Set of Limiting Meaning](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Limiting%20God.md)
+# Known Sets:
+* [The Set of Limiting Meaning](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Limiting%20God.md)
