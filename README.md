@@ -7,10 +7,9 @@ ____
 * [Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md)
 * [Summary of the Occult Paradigm](https://github.com/Az-Net/Proposals/blob/main/Occult%20Paradigm.md)
 ____
-[Transcendental Compact Multidimensional Set Theory (TCMS)](https://github.com/Az-Net/Unified-Theory/blob/main/TCMS%20Theory.md)
-____
 
 [Defining & Limiting the Idea of 'God'](https://github.com/Az-Net/Unified-Theory/blob/main/Final.md)
+* [Transcendental Compact Multidimensional Set Theory (TCMS)](https://github.com/Az-Net/Unified-Theory/blob/main/TCMS%20Theory.md)
 ____
 [Defining Soul](https://github.com/Az-Net/Proposals/blob/main/Occultism/Defining%20Soul.md)
 ____
