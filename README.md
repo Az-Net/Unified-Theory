@@ -2,7 +2,7 @@
 This is [Az:Net's](https://github.com/Az-Net) [Unified Theory](https://en.m.wikipedia.org/wiki/Theory_of_everything).  
 _Constant Work In-Progress_
 ____
-[What is 'Az'?](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Az.md)
+[What is 'Az'?](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Az.md)  
 [Our Philosophy](https://github.com/Az-Net/Proposals/blob/main/Az%20Philosophy.md)
 * [Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md)
 * [Summary of the Occult Paradigm](https://github.com/Az-Net/Proposals/blob/main/Occult%20Paradigm.md)
