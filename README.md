@@ -7,10 +7,11 @@ ____
 ____
 [Transcendental Compact Multidimensional Set Theory (TCMS)](https://github.com/Az-Net/Unified-Theory/blob/main/TCMS%20Theory.md)
 ____
-[Defining 'God'](https://github.com/Az-Net/Az-Net/blob/main/Definitions/God.md)
-* ['God' as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md)
-* [Limiting the Idea of 'God'](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Limiting%20God.md)
-* [Follow-Up & Conclusion](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Followup%20Limiting.md)
+[Defining 'God'](https://github.com/Az-Net/Az-Net/blob/main/Definitions/God.md) (Deprecated)
+* ['God' as an Equation](https://github.com/Az-Net/Proposals/blob/main/Mathematics/God%20as%20an%20Equation.md) (Deprecated)
+* [Limiting the Idea of 'God'](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Limiting%20God.md) (Deprecated)
+* [Follow-Up & Conclusion](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Followup%20Limiting.md) (Deprecated)
+* [Final Draft - Defining & Limiting the Idea of 'God'](https://github.com/Az-Net/Unified-Theory/blob/main/Final.md)
 ____
 [Defining Soul](https://github.com/Az-Net/Proposals/blob/main/Occultism/Defining%20Soul.md)
 * [Body](https://github.com/Az-Net/Az-Net/blob/main/Definitions/Body.md)
