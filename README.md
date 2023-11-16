@@ -4,6 +4,7 @@ _Constant Work In-Progress_
 ____
 [Our Philosophy](https://github.com/Az-Net/Proposals/blob/main/Az%20Philosophy.md)
 * [Quantum-Material Reality](https://github.com/Az-Net/Proposals/blob/main/Quantum-Material%20Reality.md)
+* [Summary of the Occult Paradigm](https://github.com/Az-Net/Proposals/blob/main/Occult%20Paradigm.md)
 ____
 [Transcendental Compact Multidimensional Set Theory (TCMS)](https://github.com/Az-Net/Unified-Theory/blob/main/TCMS%20Theory.md)
 ____
