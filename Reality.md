@@ -1,4 +1,4 @@
-In the past, the concept of 'spirit' often encompassed a broad range of phenomena, including both the physical and non-physical aspects of existence. However, as our understanding of reality has evolved, we have come to recognize that our models of the soul are incomplete, and our spiritual tools require updating.
+In the past, the concept of 'spirit' often encompassed a broad range of phenomena, including both the physical and non-physical aspects of existence. However, as our understanding of reality has evolved, we have come to recognize that our models of the [soul](https://github.com/Az-Net/Proposals/blob/main/Occultism/Defining%20Soul.md) are incomplete, and our spiritual tools require updating.
 
 By separating the spiritual plane into its constituents, Digital and Essential, we gain a more nuanced understanding of the nature of spirituality. 
 
