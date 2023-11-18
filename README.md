@@ -12,7 +12,7 @@ ____
 * [Transcendental Compact Multidimensional Set Theory (TCMS)](https://github.com/Az-Net/Unified-Theory/blob/main/TCMS%20Theory.md)
 ____
 [Defining 'Soul'](https://github.com/Az-Net/Proposals/blob/main/Occultism/Defining%20Soul.md)  
-[Understanding the Planes of Reality](https://github.com/Az-Net/Unified-Theory/blob/main/Reality)
+[Understanding the Planes of Reality](https://github.com/Az-Net/Unified-Theory/blob/main/Reality.md)
 ____
 [AZ Curriculum](https://github.com/Az-Net/AZ-Curriculum)
 ____
