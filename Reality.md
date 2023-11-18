@@ -21,6 +21,7 @@ In essence, the Digital Plane encompasses the abstract realm of ideas, emotions,
 
 Put simply: digital is the plane of *expression*
 
+![](https://github.com/Az-Net/Az-Net/blob/main/Pictures/Inspirations/Untitled3_20231118105557.png)
 
 From a top-down approach, the four planes shown in the diagram encompass the essence of magick. These planes represent the fundamental stages of the magical process, from the inception of ideas to their manifestation in the physical world.
 
