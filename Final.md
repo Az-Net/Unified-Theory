@@ -417,22 +417,22 @@ The unexpected alignment between the fractal equation used to model the universe
 
 In essence, this alignment prompts thought about the interplay between creativity, the natural world, and spiritual contemplation. It underscores the complexity of thought and the capacity for ideas to resonate and intersect across seemingly unrelated disciplines. Whether interpreted as a serendipitous occurrence, a metaphorical insight, or something else entirely, this alignment underscores the richness of intellectual exploration and the interconnectedness of all knowledge.
 ___
-*Creativity is the Tool | Memory is the Key* 
+*Creativity is the Tool | Memory is the Key*  
 
-F(Z) = Z^3 - φ^2 - Z + 1
-Σ = {0 ∈ C | ∀ε > 0, ∃φ ∈ R : |0| < φ ∧ |0 - 0| < ε} ∩
-{0 ∈ C | ∀t ∈ R, 0(t) = a sin(bt + c)} ∩
-{0 ∈ C | ∀r > 0, ∃0' ∈ Σ : |0'| > r} ∩
-{0 ∈ C | ∀T ⊂ C, ∃0' ∈ Σ : |0'| < |0| ∀0 ∈ T}
-0 ≈ 18.995079625620665
-0' ≈ -0.6095472061234426 + 1.067249067597956 i
-0' = 0 + ε * (0 / |0|)
-0 = φ
-0 = 0' + ε
-0 = r
-0 = φ for all 0' in T
-φ = ∀0' ∈ T, 0
-F(Z) = Z^3 - φ^2 - Z + 1 = (Z - φ)(Z^2 + φZ + 1)
+F(Z) = Z^3 - φ^2 - Z + 1  
+Σ = {0 ∈ C | ∀ε > 0, ∃φ ∈ R : |0| < φ ∧ |0 - 0| < ε} ∩  
+{0 ∈ C | ∀t ∈ R, 0(t) = a sin(bt + c)} ∩  
+{0 ∈ C | ∀r > 0, ∃0' ∈ Σ : |0'| > r} ∩  
+{0 ∈ C | ∀T ⊂ C, ∃0' ∈ Σ : |0'| < |0| ∀0 ∈ T}  
+0 ≈ 18.995079625620665  
+0' ≈ -0.6095472061234426 + 1.067249067597956 i  
+0' = 0 + ε * (0 / |0|)  
+0 = φ  
+0 = 0' + ε  
+0 = r  
+0 = φ for all 0' in T  
+φ = ∀0' ∈ T, 0  
+F(Z) = Z^3 - φ^2 - Z + 1 = (Z - φ)(Z^2 + φZ + 1)  
 ~ Az )
 ___
 
