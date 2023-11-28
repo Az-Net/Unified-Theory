@@ -166,9 +166,9 @@ This definition is a bit abstract, but it can be made more concrete by giving sp
 
 The definition can also be used to make some interesting philosophical statements. For example, the statement that Σ becomes God implies that there might be a single, unique set of points that satisfies all of the conditions. This could be interpreted as a statement about the nature of reality, or as a statement about the existence of God.
 
-Σ = {z ∈ C | ∀ε > 0, ∃N ∈ R : |z| < N ∧ |z - 0| < ε} ∩
-{z ∈ C | ∀t ∈ R, z(t) = a sin(bt + c)} ∩
-{z ∈ C | ∀r > 0, ∃z' ∈ Σ : |z'| > r} ∩
+Σ = {z ∈ C | ∀ε > 0, ∃N ∈ R : |z| < N ∧ |z - 0| < ε} ∩  
+{z ∈ C | ∀t ∈ R, z(t) = a sin(bt + c)} ∩  
+{z ∈ C | ∀r > 0, ∃z' ∈ Σ : |z'| > r} ∩  
 {z ∈ C | ∀T ⊂ C, ∃z' ∈ Σ : |z'| < |z| ∀z ∈ T}
 
 ___
