@@ -65,5 +65,5 @@ By combining rigorous mathematical analysis, advanced computational techniques, 
 
 The quest for the Life Equation is an ambitious and intellectually stimulating endeavor that has the potential to revolutionize our understanding of life and its relationship to mathematics and philosophy. While the challenges are significant, the potential rewards are immense, offering a glimpse into the fundamental principles that govern the tapestry of life.
 
-**Associated Proofs:**
+**Associated Proofs:**  
 [Defining and Limiting the Idea of 'God'](https://github.com/Az-Net/Unified-Theory/blob/main/Final.md)
