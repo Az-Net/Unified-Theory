@@ -11,7 +11,7 @@ ____
 * [Iterative Reality](https://github.com/Az-Net/Proposals/blob/main/Iterative-reality.md)
 * [Summary of the Occult Paradigm](https://github.com/Az-Net/Proposals/blob/main/Occult%20Paradigm.md)
 ____
-
+[Az Conjecture](https://github.com/Az-Net/Unified-Theory/blob/main/Az%20Conjecture.md)  
 [Defining & Limiting the Idea of 'God'](https://github.com/Az-Net/Unified-Theory/blob/main/Final.md)
 * [Transcendental Compact Multidimensional Set Theory (TCMS)](https://github.com/Az-Net/Unified-Theory/blob/main/TCMS%20Theory.md)
 ____
