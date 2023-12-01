@@ -1,12 +1,12 @@
 Pattern Engineering is a subset of Innovation Engineering that focuses on the specific task of identifying, extracting, and applying patterns from various sources to create new and innovative ideas. It involves understanding the underlying principles and structures of existing patterns, and then using this knowledge to generate novel solutions to problems or challenges.
 
-Here's a breakdown of how Pattern Engineering fits within the broader field of Innovation Engineering:
+Here's a breakdown of how Pattern Engineering fits within the broader field of Innovation Engineering:  
 
-**Innovation Engineering:**
+**Innovation Engineering:**  
 - Encompasses the systematic and creative process of developing new and valuable ideas.
 - Aims to generate ideas that are not only novel but also feasible, desirable, and impactful.
 
-**Pattern Engineering:**
+**Pattern Engineering:**  
 - Focuses on the identification, extraction, and application of patterns to drive innovation.
 - Leverages patterns from various sources, such as nature, technology, and human behavior.
 - Utilizes pattern recognition and pattern matching techniques to uncover hidden connections and insights.
@@ -14,40 +14,40 @@ Here's a breakdown of how Pattern Engineering fits within the broader field of I
 In essence, Pattern Engineering provides a structured approach to harnessing the power of patterns for innovation. It enables innovators to systematically draw upon existing knowledge and relationships to generate fresh perspectives and solutions.
 
 
-Further sub-fields of study include:
+Further sub-fields of study include:  
 
 Axiomatic Paratrigonometrics: The study of geometric patterns and mathematical relationships inherent in reality.
 
 Fractalology: The exploration of fractal geometry and its applications, particularly in creating symbolic representations of complex phenomena and for tapping into the underlying patterns of reality
 
 
-## Fundamentals: 
-1 is infinitely divisible and 0 is infinitely generative.
-These statements are both true from a mathematical perspective. 
-Let's break down each statement to understand why:
+## Fundamentals:  
+1 is infinitely divisible and 0 is infinitely generative.  
+These statements are both true from a mathematical perspective.  
+Let's break down each statement to understand why:  
 
-1. **Infinite Divisibility of 1:**
-   The concept of divisibility refers to the ability to divide a number by another number without leaving a remainder. For instance, 12 is divisible by 3 because 12 ÷ 3 = 4, with no remainder.
+1. **Infinite Divisibility of 1:**  
+   The concept of divisibility refers to the ability to divide a number by another number without leaving a remainder. For instance, 12 is divisible by 3 because 12 ÷ 3 = 4, with no remainder.  
 
-   In the case of 1, it is divisible by every positive integer. No matter what positive integer you choose to divide into 1, the result will always be 1, leaving no remainder. This means that 1 can be infinitely divided by any positive integer.
+   In the case of 1, it is divisible by every positive integer. No matter what positive integer you choose to divide into 1, the result will always be 1, leaving no remainder. This means that 1 can be infinitely divided by any positive integer.  
 
-   To illustrate this further, consider the following division operations:
+   To illustrate this further, consider the following division operations:  
 
-   1 ÷ 2 = 0.5
-   1 ÷ 3 = 0.333333....
-   1 ÷ 4 = 0.25
-   1 ÷ 5 = 0.2
+   1 ÷ 2 = 0.5  
+   1 ÷ 3 = 0.333333....  
+   1 ÷ 4 = 0.25  
+   1 ÷ 5 = 0.2  
 
-   As you can see, regardless of the divisor, the result is always a non-zero number, demonstrating the infinite divisibility of 1.
+   As you can see, regardless of the divisor, the result is always a non-zero number, demonstrating the infinite divisibility of 1.  
 
-2. **Infinite Generativity of 0:**
+2. **Infinite Generativity of 0:**  
    The term "generativity" in this context refers to the ability to produce or generate something. In the case of 0, it refers to its role as the additive identity.
 
    The additive identity is the unique number that, when added to any other number, results in the original number itself. For instance, 0 + 5 = 5, and 5 + 0 = 5.
 
-   The significance of 0 as the additive identity lies in its ability to generate an infinite sequence of numbers. Starting from 0, you can add any integer to it and repeatedly add the same integer to obtain a sequence of numbers:
+   The significance of 0 as the additive identity lies in its ability to generate an infinite sequence of numbers. Starting from 0, you can add any integer to it and repeatedly add the same integer to obtain a sequence of numbers:  
 
-   0, 3, 6, 9, 12, 15, 18, 21, ...
+   0, 3, 6, 9, 12, 15, 18, 21, ...  
 
    This sequence can continue indefinitely, demonstrating the infinite generative nature of 0.
 
