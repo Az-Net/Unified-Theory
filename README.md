@@ -34,3 +34,6 @@ ____
 ____
 [The Universal Tapestry (Work In-Progress)](https://github.com/Az-Neter/The-Universal-Tapestry)
 * [Unified Form Theory (TBA)]()
+* [Mathematical Model of Sympathy (TBA)[]
+* [Mathematical Model of Correspondence (TBA)[]
+  
