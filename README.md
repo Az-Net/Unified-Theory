@@ -37,4 +37,4 @@ ____
 * [Mathematical Model of Sympathy (TBA)]() 
 * [Mathematical Model of Correspondence (TBA)]() 
   
-[Masterworks](1https://github.com/Az-Net/Proposals/blob/main/Masterworks.md)
+[Masterworks](https://github.com/Az-Net/Proposals/blob/main/Masterworks.md)
