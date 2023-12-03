@@ -1,3 +1,8 @@
+The traditional view of zero as an empty set, devoid of any meaningful content, fails to capture its inherent infinite. 
+The concept of infinite divisibility within zero extends our understanding of zero beyond its traditional role as a mere absence of quantity. 
+In the context of infinite divisibility, self-reference is a fundamental characteristic; a feature, not a bug.
+Therefore, rather than dismissing self-reference as a flaw, there are deeper insights one can gain by following paradoxical methods to their conclusion.
+
 # (TCMS) Theory
 
 The term **Transcendental Compact Multidimensional Set Theory** refers to the study of sets that have the following properties:
@@ -10,7 +15,7 @@ This type of [set theory](https://en.m.wikipedia.org/wiki/Set_theory#:~:text=Set
 
 The study of [transcendental numbers](https://en.m.wikipedia.org/wiki/Transcendental_number) is already a complex and fascinating topic, and the addition of [compactness](https://en.m.wikipedia.org/wiki/Compact_space) and [multidimensionality](https://en.m.wikipedia.org/wiki/Multidimensional_system) would only add to the challenge and the potential rewards.
 
-TCMS Theory has the potential to help us understand infinity in a way that we never have before. However, it is also possible that it could lead us down a rabbit hole of madness. Only time will tell what the true potential this field of study has.
+TCMS Theory has the potential to help us understand infinity in a way that we never have before.
 
 # Extending Transcendental Numbers
 
