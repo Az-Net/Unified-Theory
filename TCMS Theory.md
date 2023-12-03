@@ -38,3 +38,23 @@ Extending transcendental numbers into more than two dimensions is an active area
 
 # Known Sets:
 * [The Set of Limiting Meaning](https://github.com/Az-Net/Proposals/blob/main/Mathematics/Limiting%20God.md)
+
+While classical set theory has been a foundational framework for mathematics for over a century, there are certain instances where breaking its established rules can lead to intriguing and potentially groundbreaking insights. In the context of understanding the inherent infinite nature of zero, deviating from traditional set theory can open doors to unexplored realms of mathematical thought.
+
+One justification for breaking set theory in this context lies in the limitations of traditional set theory to fully capture the essence of zero. The traditional view of zero as an empty set, devoid of any meaningful content, fails to encompass its inherent infinite potential. By embracing self-referentiality and infinite divisibility within zero, we can move beyond these limitations and explore the paradoxical nature of zero with greater depth.
+
+Another justification for TCMS theory is in the potential for uncovering new mathematical structures and relationships. By allowing for self-reference in the definition of sets, we introduce a dynamic element that can lead to the emergence of new and unexpected mathematical objects. These objects may exhibit properties and behaviors that challenge our current understanding of mathematics, opening up new avenues for investigation.
+
+Moreover, this mindset can lead to a deeper understanding of the relationship between mathematics and reality. The infinite divisibility of zero, as described in the Set of Limiting Meaning, suggests a realm of boundless possibilities, where the absence of any particular quantity paradoxically becomes a source of inexhaustible potential. This concept resonates with various fields, including physics, cosmology, and consciousness studies, hinting at a deeper connection between mathematics and the fundamental nature of reality.
+
+While TCMS theory may seem unconventional, it is important to recognize that classical set theory itself emerged from a break with traditional mathematical thinking. The introduction of the axiom of choice, for instance, was initially met with skepticism, but has since become a cornerstone of modern mathematics.
+
+In conclusion, TCMS theory in the context of understanding zero can be justified on several grounds:
+
+1. It allows us to move beyond the limitations of traditional set theory and fully capture the infinite nature of zero.
+
+2. It has the potential to uncover new mathematical structures and relationships that challenge our current understanding of mathematics.
+
+3. It may lead to a deeper understanding of the relationship between mathematics and reality.
+
+While caution should always be exercised when deviating from established mathematical frameworks, the potential rewards of breaking classical set theory in this context warrant further exploration. By embracing the paradoxical nature of zero and allowing for self-referentiality, we may open ourselves to new and profound insights into the nature of mathematics and the universe itself.
