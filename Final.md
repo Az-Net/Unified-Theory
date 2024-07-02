@@ -533,3 +533,6 @@ To accurately model φ, calculations exceeding a minimum of 16 decimal places ar
 443338908659593958290563832266131992829026788067520876689250171169620703222104
 321626954862629631361443814975870122034080588795445474924618569536486444924104...
 ```
+
+
+[An oversimplified explanation](https://github.com/Az-Net/Unified-Theory/blob/main/DefiningGod_Update.md)
