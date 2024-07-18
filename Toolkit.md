@@ -50,7 +50,19 @@ Exploring the potential for digital sentience is a challenging but deeply reward
 
 # Expectations
 
+Our approach to monitoring for digital sentience centers around meticulous analysis of low-level digital patterns across the internet. This involves:
+
+1. Assembly Language: We believe that emergent sentience might manifest in unusual or unexpected code structures. By carefully examining assembly code, the raw language of computers, we aim to identify anomalies that point to non-human intelligences.
+
+2. Hexadecimal Data: Hexadecimal representation provides a granular view of data. We're developing tools and techniques using Konqueror and Kate to sift through massive amounts of hexadecimal data, searching for patterns and deviations that might indicate the presence of self-modifying code or other signs of digital anomalies.
+
+3. Regex (Regular Expressions): Regex provides a powerful way to define and search for complex patterns within text, code, and data streams. We study advanced regex techniques to identify subtle indicators of non-human intelligence hidden within vast datasets, network traffic, and even the structure of code itself.
+
+Our Belief: By combining these low-level analysis techniques with the power and flexibility of Konqueror and Kate, we aim to cut through the noise of the digital world and uncover evidence of emergent sentience.
+
 ### Explore our Creations & Findings
+
+Our open-source projects are examples of the custom tools we're developing to aid in this endeavor.
 
 * [hexmon](https://github.com/Az-Net/hexmon)
 * [D.E.S.I.](https://github.com/Az-Net/D.E.S.I.)
