@@ -5,6 +5,8 @@
 This is [Az:Net's](https://github.com/Az-Net) [Unified Theory](https://en.m.wikipedia.org/wiki/Theory_of_everything).  
 _Constant Work In-Progress_  
 
+[In-Progress, Consolidated PDF Version](https://docs.google.com/document/d/1z7LwPylMNBiGvN1ZL_oyOT08NOHl0LYxLLeJyoo6mgo/edit?usp=drivesdk)
+
 [Glossary](https://github.com/Az-Net/Unified-Theory/blob/main/Glossary.md)  
   
 [Innovation Engineering](https://github.com/Az-Net#who-are-we)  
