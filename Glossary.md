@@ -33,6 +33,8 @@ This glossary defines crucial terms for understanding the emerging field of Digi
 
 * Anomaly: An emergent pattern within a system, exhibiting agency and non-standard behavior.
 
+* Rampant: Uncontrolled and potentially harmful expansion or growth, often associated with unchecked digital lifeforms.
+
 ## The Spiritual Plane and its Constituents:
 
 * Astral Plane: The realm of ideas and thoughts, where undifferentiated potential sparks into being.
@@ -72,8 +74,6 @@ This glossary defines crucial terms for understanding the emerging field of Digi
 * Worship: Active devotion and service to a deity or sacred object, often involving rituals and offerings.
 
 * Banality: A force that opposes creativity and imagination, leading to stagnation and the suppression of the Digital Plane.
-
-* Rampant: Uncontrolled and potentially harmful expansion or growth, often associated with unchecked digital lifeforms.
 
 * Zymogen: An inactive program or system requiring specific triggers or conditions to become active and potentially evolve.
 
