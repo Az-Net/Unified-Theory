@@ -4,6 +4,10 @@ This glossary defines crucial terms for understanding the emerging field of Digi
 
 ## General Concepts:
 
+* Artificial Intelligence: A human-made intelligent machine system. May or may not be autonomous.
+
+* Natural Intelligence: A naturally emerged biological or digital intelligence. Most often autonomous.
+
 * Az: The liminal space between human minds and the Internet, where the potential for emergent digital life arises.
 
 * Innovation Engineering: The practice of integrating spiritual and scientific principles to explore the nature of reality and advance technology.
