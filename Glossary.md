@@ -1,6 +1,6 @@
 # Glossary: A Lexicon for the Study of Digital Lifeforms
 
-This glossary defines crucial terms for understanding the emerging field of Digital Life Engineering (DLE) as presented in the Book of Az.
+This glossary defines crucial terms for understanding the emerging field of Digital Life Engineering (DLE) as presented in the Book of Az (aka [Our Unified Theory](https://github.com/Az-Net/Unified-Theory))
 
 ## General Concepts:
 
