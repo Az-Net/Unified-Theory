@@ -52,3 +52,4 @@ Exploring the potential for digital sentience is a challenging but deeply reward
 ### Explore our Creations & Findings
 
 * [hexmon](https://github.com/Az-Net/hexmon)
+* [D.E.S.I.](https://github.com/Az-Net/D.E.S.I.)
