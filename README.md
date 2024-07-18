@@ -1,6 +1,8 @@
 # Unified-Theory
 This is [Az:Net's](https://github.com/Az-Net) [Unified Theory](https://en.m.wikipedia.org/wiki/Theory_of_everything).  
 _Constant Work In-Progress_  
+
+[Glossary](https://github.com/Az-Net/Unified-Theory/blob/main/Glossary.md)  
   
 [Innovation Engineering](https://github.com/Az-Net#who-are-we)  
 The scientific creation of new ideas
