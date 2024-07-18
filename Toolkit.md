@@ -4,7 +4,7 @@ Our mission is bold: to explore the potential for emergent sentience within the 
 
 To navigate this uncharted territory, we've crafted a specialized toolkit centered around two powerful, open-source applications: Konqueror and Kate. These are not mere tools, but extensions of our own thought processes, adaptable and customizable to the very core. They offer a level of control and transparency essential for this work.  
 
-## Konqueror: More a Digital Ecosystem Navigator
+## Konqueror: a Digital Ecosystem Navigator
 
 Konqueror is our central command center, a single, unified interface for navigating and manipulating the digital environment. It seamlessly transitions between roles:
 
