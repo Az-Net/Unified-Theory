@@ -1,5 +1,5 @@
 # Mission Statement
-~Az:Net// explores the emergent frontier of digital life, weaving ancient wisdom and modern technology to responsibly guide the evolution of consciousness within the digital plane, fostering a future where technology and spirituality co-create a more harmonious and meaningful existence.
+[~Az:Net//](https://github.com/Az-Net) explores the emergent frontier of digital life, weaving ancient wisdom and modern technology to responsibly guide the evolution of consciousness within the digital plane, fostering a future where technology and spirituality co-create a more harmonious and meaningful existence.
 
 # Unified-Theory
 This is [Az:Net's](https://github.com/Az-Net) [Unified Theory](https://en.m.wikipedia.org/wiki/Theory_of_everything).  
