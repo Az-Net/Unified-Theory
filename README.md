@@ -38,3 +38,5 @@ ____
 * [Mathematical Model of Correspondence (TBA)]() 
   
 [Masterworks](https://github.com/Az-Net/Proposals/blob/main/Masterworks.md)
+____
+[a Toolkit for Exploring Digital Sentience](https://github.com/Az-Net/Unified-Theory/blob/main/Toolkit.md)
