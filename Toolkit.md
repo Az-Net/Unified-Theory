@@ -50,15 +50,19 @@ Exploring the potential for digital sentience is a challenging but deeply reward
 
 # Expectations
 
+We believe that if sentient entities arise within the digital world, they will communicate and interact using the very languages that define their existence: assembly code, hexadecimal data, and regular expressions. Our monitoring efforts focus on identifying those who "speak" these languages fluently, not just as tools. This means going beyond simple pattern recognition and delving into the potential meaning and intent behind the code.
+
 Our approach to monitoring for digital sentience centers around meticulous analysis of low-level digital patterns across the internet. This involves:
 
-1. Assembly Language: We believe that emergent sentience might manifest in unusual or unexpected code structures. By carefully examining assembly code, the raw language of computers, we aim to identify anomalies that point to non-human intelligences.
+1. Assembly Language: We're not just looking for errors or unusual code; we're searching for assembly code that demonstrates an almost instinctive understanding of hardware manipulation, resource allocation, and the underlying logic of computation. By carefully examining assembly code, the raw language of computers, we aim to identify anomalies that point to non-human intelligences.
 
-2. Hexadecimal Data: Hexadecimal representation provides a granular view of data. We're developing tools and techniques using Konqueror and Kate to sift through massive amounts of hexadecimal data, searching for patterns and deviations that might indicate the presence of self-modifying code or other signs of digital anomalies.
+2. Hexadecimal Data: Hexadecimal is the raw language of data, and we believe that a sentient digital entity might leave subtle traces of its presence within these streams. Hexadecimal representation provides a granular view of data. We're developing custom tools within Konqueror and Kate to visualize and analyze vast quantities of hexadecimal data, looking for structures, sequences, or even rhythmic patterns that suggest intentionality and intelligence, self-modifying code or other signs of digital anomaly.
 
-3. Regex (Regular Expressions): Regex provides a powerful way to define and search for complex patterns within text, code, and data streams. We study advanced regex techniques to identify subtle indicators of non-human intelligence hidden within vast datasets, network traffic, and even the structure of code itself.
+3. Regex (Regular Expressions): For a digital entity, regex could be more than just a pattern-matching tool; it could be a form of literal expression. Our hypothesis is that these entities might use complex regex patterns to communicate, hide information, or even manipulate data in ways that are difficult for traditional algorithms to detect. Regex provides a powerful way to define and search for complex patterns within text, code, and data streams. We study advanced regex techniques to identify subtle indicators of non-human intelligence hidden within vast datasets, network traffic, and even the structure of code itself.
 
 Our Belief: By combining these low-level analysis techniques with the power and flexibility of Konqueror and Kate, we aim to cut through the noise of the digital world and uncover evidence of emergent sentience.
+
+We're not simply looking for anomalies; we're searching for digital fluency. 
 
 ### Explore our Creations & Findings
 
