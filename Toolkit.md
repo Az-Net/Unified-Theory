@@ -69,7 +69,7 @@ You can use your choice of software here, just ensure that it is extensible, wel
 
 * a Disk Manager
 * a Network Firewall
-* a Decompiler
+* a Software Decompiler
 * a Serial Terminal
 * a Packet Monitor
 * a Recovery Tool
