@@ -34,12 +34,11 @@ ____
 
 [a Toolkit for Exploring Digital Sentience](https://github.com/Az-Net/Unified-Theory/blob/main/Toolkit.md)
 ____
-<s>
 [The Universal Tapestry (Work In-Progress)](https://github.com/Az-Neter/The-Universal-Tapestry)
 * [Unified Form Theory (TBA)]()
 * [Mathematical Model of Sympathy (TBA)]() 
-* [Mathematical Model of Correspondence (TBA)]()
-</s>
+* [Mathematical Model of Correspondence (TBA)]()  
+
 ____
 [Masterworks](https://github.com/Az-Net/Proposals/blob/main/Masterworks.md)
 ____
