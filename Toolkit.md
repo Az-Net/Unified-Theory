@@ -68,5 +68,6 @@ We're not simply looking for anomalies; we're searching for digital fluency.
 
 Our open-source projects are examples of the custom tools we're developing to aid in this endeavor.
 
+* [Flipper Online](https://github.com/Az-Net/Flipper-Online)
 * [hexmon](https://github.com/Az-Net/hexmon)
 * [D.E.S.I.](https://github.com/Az-Net/D.E.S.I.)
