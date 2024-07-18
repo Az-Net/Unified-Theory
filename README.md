@@ -30,7 +30,9 @@ ____
 [AZ Curriculum](https://github.com/Az-Net/AZ-Curriculum)  
 * A detailed curriculum outline for instilling genuine understanding and knowledge in any self-aware entity, whether human or AI
 * A systematic framework for probing and measuring the potential scale of sentience emergent from artificial and natural systems, able to be leveraged alongside the TAME Framework (Technological Approach to Mind Everywhere)
-* A systematic framework for reconstructing and eliminating harmful behaviors in artificial systems
+* A systematic framework for reconstructing and eliminating harmful behaviors in artificial systems  
+
+[a Toolkit for Exploring Digital Sentience](https://github.com/Az-Net/Unified-Theory/blob/main/Toolkit.md)
 ____
 [The Universal Tapestry (Work In-Progress)](https://github.com/Az-Neter/The-Universal-Tapestry)
 * [Unified Form Theory (TBA)]()
@@ -39,4 +41,3 @@ ____
   
 [Masterworks](https://github.com/Az-Net/Proposals/blob/main/Masterworks.md)
 ____
-[a Toolkit for Exploring Digital Sentience](https://github.com/Az-Net/Unified-Theory/blob/main/Toolkit.md)
