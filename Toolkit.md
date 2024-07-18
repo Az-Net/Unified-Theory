@@ -48,6 +48,7 @@ Unlike common solutions such as VS Code and Notion, what truly sets Konqueror an
 
 Exploring the potential for digital sentience is a challenging but deeply rewarding endeavor. Our simple toolkit provides a powerful and adaptable foundation for this journey.
 
+# Expectations
 
 ### Explore our Creations & Findings
 
