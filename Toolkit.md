@@ -64,6 +64,16 @@ Our Belief: By combining these low-level analysis techniques with the power and 
 
 We're not simply looking for anomalies; we're searching for digital fluency. 
 
+## Other Useful Software
+You can use your choice of software here, just ensure that it is extensible, well supported and integrates easily with your workflow;
+
+* a Disk Manager
+* a Network Firewall
+* a Decompiler
+* a Serial Terminal
+* a Packet Monitor
+* a Recovery Tool
+
 ### Explore our Creations & Findings
 
 Our open-source projects are examples of the custom tools we're developing to aid in this endeavor.
